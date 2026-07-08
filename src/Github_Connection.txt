@@ -1,0 +1,26 @@
+Step 1: Go to eclipse->help->new software.
+Paste the link  https://eclipse.abapgit.org/updatesite/
+
+Step 2: ( Create new account on github ) if you dont have account.
+Go to you account and create PAT (Personal Access Token).
+=> Setting -> Developer Setting -> Personal access token -> Create classic token
+=> Copy newly generate code
+=> Create a new repository.
+=> Create a text file in github and save the file in the repo.
+
+Step 3: Go back to eclipse 
+=> Window -> show view -> other -> search for abapgit -> select abapgit repository
+A new view will open at bottom.
+
+Step 4: Click on (+) at the top right corner 
+=> Paste your http url of the github.
+=> Select branch from the dropdown and also select the package you want to save in repo.
+=> Click on next and then click on finish.
+
+Step 5: Paste the same url of the git repo in the abapgit repository section opened during the step3.
+=> you will find your package with linked url and status.
+=> Right click on the line and select stage and push.
+
+
+Thanks good to go and commit your rap code on github.
+
