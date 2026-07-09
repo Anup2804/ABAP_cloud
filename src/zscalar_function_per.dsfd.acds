@@ -1,0 +1,5 @@
+define scalar function zscalar_function_per
+  with parameters
+    im_value: abap.int4,
+    im_total: abap.int4
+  returns abap.int2

@@ -1,0 +1,14 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Implementation of zscalar_function_per",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "scalarFunctionName": "ZSCALAR_FUNCTION_PER",
+  "engine": "sqlEngine",
+  "sqlProperties": {
+    "amdpReference": "zcl_amdp_raw=>cal_percentage",
+    "autoExposedInSqlServices": false
+  }
+}
